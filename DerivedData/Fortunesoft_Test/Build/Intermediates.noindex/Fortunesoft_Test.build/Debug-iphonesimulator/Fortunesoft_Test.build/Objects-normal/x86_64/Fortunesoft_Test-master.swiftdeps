@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "96ebda1f460d655341a31b3f1847bb0f018548b9268153b974233057523deee6"
+build_start_time: [1682497607, 33876895]
+build_end_time: [1682497608, 237618923]
+inputs:
+  "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Fortunesoft_Test/APIManager/TestAPI.swift": [1682440738, 530364513]
+  "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Fortunesoft_Test/AppDelegate.swift": [1682439523, 626604557]
+  "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Fortunesoft_Test/Model/TestModel.swift": [1682442377, 919480800]
+  "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Fortunesoft_Test/SceneDelegate.swift": [1682439523, 632114410]
+  "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Fortunesoft_Test/View/TestViewController.swift": [1682497606, 793414115]

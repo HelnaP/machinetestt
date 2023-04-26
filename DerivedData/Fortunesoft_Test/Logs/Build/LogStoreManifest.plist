@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05882F4C-DF98-4199-BEE2-77720ACC105E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05882F4C-DF98-4199-BEE2-77720ACC105E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704190371.62452197</real>
+			<key>timeStoppedRecording</key>
+			<real>704190373.09674001</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>05882F4C-DF98-4199-BEE2-77720ACC105E</string>
+		</dict>
+		<key>4942533C-2CC9-4C12-8061-E8876E3A64CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4942533C-2CC9-4C12-8061-E8876E3A64CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704190316.42726505</real>
+			<key>timeStoppedRecording</key>
+			<real>704190320.66506004</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>4942533C-2CC9-4C12-8061-E8876E3A64CA</string>
+		</dict>
+		<key>53BBD8E6-4F6B-43D2-A956-7750427BCA64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53BBD8E6-4F6B-43D2-A956-7750427BCA64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704190406.80606902</real>
+			<key>timeStoppedRecording</key>
+			<real>704190408.24717605</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>53BBD8E6-4F6B-43D2-A956-7750427BCA64</string>
+		</dict>
+		<key>5C05F6CB-D4C4-4083-947C-5DEE379AA5EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C05F6CB-D4C4-4083-947C-5DEE379AA5EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704185785.98092794</real>
+			<key>timeStoppedRecording</key>
+			<real>704185788.69201303</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>5C05F6CB-D4C4-4083-947C-5DEE379AA5EC</string>
+		</dict>
+		<key>80E6B448-21E3-4A82-AB2B-B917436328AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80E6B448-21E3-4A82-AB2B-B917436328AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704186676.39416695</real>
+			<key>timeStoppedRecording</key>
+			<real>704186678.43985796</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>80E6B448-21E3-4A82-AB2B-B917436328AD</string>
+		</dict>
+		<key>8CD1F009-7BFA-4497-97CC-8477533464CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CD1F009-7BFA-4497-97CC-8477533464CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704185257.11142898</real>
+			<key>timeStoppedRecording</key>
+			<real>704185260.19234705</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>8CD1F009-7BFA-4497-97CC-8477533464CA</string>
+		</dict>
+		<key>9B850063-4023-4351-BC2E-2603585F83EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B850063-4023-4351-BC2E-2603585F83EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704190262.90429604</real>
+			<key>timeStoppedRecording</key>
+			<real>704190267.52127504</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>9B850063-4023-4351-BC2E-2603585F83EE</string>
+		</dict>
+		<key>BA11EA92-EE0A-451D-8D6A-A4DE9D570399</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA11EA92-EE0A-451D-8D6A-A4DE9D570399.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704186656.77474999</real>
+			<key>timeStoppedRecording</key>
+			<real>704186659.91019297</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>BA11EA92-EE0A-451D-8D6A-A4DE9D570399</string>
+		</dict>
+		<key>E5361688-B38C-45E5-99D5-0B24F3052BDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5361688-B38C-45E5-99D5-0B24F3052BDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704186707.05233705</real>
+			<key>timeStoppedRecording</key>
+			<real>704186708.57291603</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>E5361688-B38C-45E5-99D5-0B24F3052BDC</string>
+		</dict>
+		<key>F47FF091-E3B0-4974-999A-1B2E9F6FD7C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F47FF091-E3B0-4974-999A-1B2E9F6FD7C7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fortunesoft_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fortunesoft_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>timeStartedRecording</key>
+			<real>704184223.493119</real>
+			<key>timeStoppedRecording</key>
+			<real>704184257.12765706</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>F47FF091-E3B0-4974-999A-1B2E9F6FD7C7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
