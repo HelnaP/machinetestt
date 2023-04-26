@@ -1,0 +1,25 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/MultipartUpload.swift":
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/HTTPMethod.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/MultipartFormData.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/Notifications.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.dia"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.swiftdeps"

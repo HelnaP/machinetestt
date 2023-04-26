@@ -1,0 +1,20 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/RequestInterceptor.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestInterceptor.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestInterceptor.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestInterceptor.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestInterceptor.swiftdeps"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/Response.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/Request.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/RequestTaskMap.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.dia"

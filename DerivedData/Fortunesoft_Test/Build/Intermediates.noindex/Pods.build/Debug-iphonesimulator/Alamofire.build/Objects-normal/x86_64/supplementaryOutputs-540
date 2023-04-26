@@ -1,0 +1,25 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/RedirectHandler.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RedirectHandler.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RedirectHandler.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RedirectHandler.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RedirectHandler.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/ParameterEncoding.swift":
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/ParameterEncoder.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/OperationQueue+Alamofire.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/Protected.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.o"

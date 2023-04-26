@@ -1,0 +1,40 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/ImageDownloader.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloader.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloader.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloader.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloader.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloaderDelegate.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloaderDelegate.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloaderDelegate.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDownloaderDelegate.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/SwiftUI/ImageContext.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageContext.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/ImageDataProcessor.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProcessor.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProcessor.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProcessor.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProcessor.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProvider.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProvider.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProvider.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDataProvider.swiftdeps"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Image/ImageFormat.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageFormat.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageFormat.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageFormat.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageFormat.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Image/ImageDrawing.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDrawing.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDrawing.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDrawing.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageDrawing.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Cache/ImageCache.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageCache.dia"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageCache.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageCache.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/ImageCache.o"

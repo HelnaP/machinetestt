@@ -22,7 +22,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/NI6-0l-tbd-view-t2e-7F-1db.nib</key>
 		<data>
-		+bNGzh5bjDO4yB5kgwHw5PKfl2Y=
+		IbFSavqsug1gFHClQGHYVe1iq/g=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-NI6-0l-tbd.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		CuJeoh5Qi8RBvTdMMzcqkUGdDic=
+		cLm4qQwNJcS4nfv+wVZeoLdOGYo=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
 		<data>
-		aGP9ykiCLw9S94t7gBuDxSnV2c4=
+		eTrPxchj8nEpToiGEZGZMLDEbQQ=
 		</data>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/PromiseKit.framework/PromiseKit</key>
 		<data>
-		81UpJwVHphahroHh9NSygSWKXJk=
+		luMfa2a3+XTPoY8+OiqzKb4Y6N8=
 		</data>
 		<key>Frameworks/PromiseKit.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/SwiftyJSON</key>
 		<data>
-		sRLJHAoHsY0HJyNCWATLFtm3BMw=
+		NetWvWwfnU23zWeTfzCvtqTNdwE=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DrXvd/T2XkKYhMuWsEU6I9PcjQ6Mrnn5ZHe49ub7Rsk=
+			iN+MUvSHKlLIf9SXHRkS8Y3iWpIxacDMUBmU95UiXyg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-NI6-0l-tbd.nib</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TNC86Dg/3646doR3gUlnUPmJnBDlGFHb4ytYfUWJp7E=
+			2+XMtjuUPDMJOF0BIxZGgZzsXSOAWN95bFMsvnPsR7w=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9jS5LhfSt0IRwcwbGcoxouV9CiOOvQTy7nxnK961Ktk=
+			cbd1HkAmdRo4wBUEkpG+GR4XtxZxpcbtxLBc5MQDqxY=
 			</data>
 		</dict>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
@@ -182,7 +182,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qlN/OyR1aTWomSy2GfHKqHT6SPoA7gwKS1PWrPGWPyc=
+			bIYjHBVBAdKaBnd0uJslc/5+Bouc6gr5fT9SsTrFN8k=
 			</data>
 		</dict>
 		<key>Frameworks/PromiseKit.framework/_CodeSignature/CodeResources</key>
@@ -203,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eSgjPMaXJCYb+BW7JXJ7qe9ZFj/bDDSrcrCIPxszHg=
+			UXRa6odMOSecsexViaMx+Kj3yOkqiu9vmwFRuVArFGE=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>

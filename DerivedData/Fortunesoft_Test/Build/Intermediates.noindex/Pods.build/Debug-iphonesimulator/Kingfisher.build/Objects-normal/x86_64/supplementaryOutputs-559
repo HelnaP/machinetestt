@@ -1,0 +1,35 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Utility/Runtime.swift":
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Runtime.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/SessionDataTask.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDataTask.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Utility/Result.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.dia"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.swiftdeps"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Result.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/RetryStrategy.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.d"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RetryStrategy.swiftdeps"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/RequestModifier.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RequestModifier.swiftdeps"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/General/ImageSource/Resource.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Resource.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/SessionDelegate.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.dia"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/SessionDelegate.o"

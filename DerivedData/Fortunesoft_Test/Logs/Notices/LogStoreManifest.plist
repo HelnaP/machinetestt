@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>01622AA5-06B4-4E1D-A4E3-197AAC2BC340</key>
+		<key>02C42039-9A39-46BD-AC78-D83474452410</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,175 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>01622AA5-06B4-4E1D-A4E3-197AAC2BC340.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>01622AA5-06B4-4E1D-A4E3-197AAC2BC340</string>
-		</dict>
-		<key>07724AF1-D1CC-4B78-AA6E-4D9C1E3EC02C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>07724AF1-D1CC-4B78-AA6E-4D9C1E3EC02C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>07724AF1-D1CC-4B78-AA6E-4D9C1E3EC02C</string>
-		</dict>
-		<key>08E3EB5F-7F64-42DC-A92D-07A76F57E401</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>08E3EB5F-7F64-42DC-A92D-07A76F57E401.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>08E3EB5F-7F64-42DC-A92D-07A76F57E401</string>
-		</dict>
-		<key>098A8AA8-1AA0-4CD9-93B9-F180CB299E10</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>098A8AA8-1AA0-4CD9-93B9-F180CB299E10.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>098A8AA8-1AA0-4CD9-93B9-F180CB299E10</string>
-		</dict>
-		<key>0CF67047-94BD-484B-90E2-139E1D508C02</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0CF67047-94BD-484B-90E2-139E1D508C02.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>0CF67047-94BD-484B-90E2-139E1D508C02</string>
-		</dict>
-		<key>18FA8015-761A-4448-8C39-F313BDD7FB27</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>18FA8015-761A-4448-8C39-F313BDD7FB27.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>18FA8015-761A-4448-8C39-F313BDD7FB27</string>
-		</dict>
-		<key>1F07DF77-63B9-47D4-A759-09543BB9B957</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1F07DF77-63B9-47D4-A759-09543BB9B957.xcactivitylog</string>
+			<string>02C42039-9A39-46BD-AC78-D83474452410.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -194,15 +26,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
+			<real>704197173.69744205</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>1F07DF77-63B9-47D4-A759-09543BB9B957</string>
+			<string>02C42039-9A39-46BD-AC78-D83474452410</string>
 		</dict>
-		<key>22CA00E3-53D1-443E-B366-F0654790BC25</key>
+		<key>05A5F9B2-ABFE-4844-87E1-7044EAFE8EAB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -211,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>22CA00E3-53D1-443E-B366-F0654790BC25.xcactivitylog</string>
+			<string>05A5F9B2-ABFE-4844-87E1-7044EAFE8EAB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -220,17 +52,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>22CA00E3-53D1-443E-B366-F0654790BC25</string>
+			<string>05A5F9B2-ABFE-4844-87E1-7044EAFE8EAB</string>
 		</dict>
-		<key>248CD14B-E2C6-4B34-A5C9-1DF31454388E</key>
+		<key>08A07819-047B-4B99-9935-566F09006A07</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -239,7 +71,147 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>248CD14B-E2C6-4B34-A5C9-1DF31454388E.xcactivitylog</string>
+			<string>08A07819-047B-4B99-9935-566F09006A07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>08A07819-047B-4B99-9935-566F09006A07</string>
+		</dict>
+		<key>0AE5D45D-1369-408A-9DD2-4BB7992D9B52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AE5D45D-1369-408A-9DD2-4BB7992D9B52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197173.69744205</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>0AE5D45D-1369-408A-9DD2-4BB7992D9B52</string>
+		</dict>
+		<key>0AFC6081-C5BB-43B9-B0EE-6617B7BE0023</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AFC6081-C5BB-43B9-B0EE-6617B7BE0023.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197126.93736696</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>0AFC6081-C5BB-43B9-B0EE-6617B7BE0023</string>
+		</dict>
+		<key>17070717-41B3-4CB4-BAA0-429B95E6F883</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17070717-41B3-4CB4-BAA0-429B95E6F883.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197080.13552797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>17070717-41B3-4CB4-BAA0-429B95E6F883</string>
+		</dict>
+		<key>18007F24-7F28-4A35-89AA-1001A23E5085</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18007F24-7F28-4A35-89AA-1001A23E5085.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197126.93736696</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>18007F24-7F28-4A35-89AA-1001A23E5085</string>
+		</dict>
+		<key>1A60D15D-A986-4E0E-B0A8-A7EA451B597F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A60D15D-A986-4E0E-B0A8-A7EA451B597F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -250,15 +222,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
+			<real>704197190.36986804</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>248CD14B-E2C6-4B34-A5C9-1DF31454388E</string>
+			<string>1A60D15D-A986-4E0E-B0A8-A7EA451B597F</string>
 		</dict>
-		<key>24EE55CB-7BF1-443D-9AC1-6418ED445E3D</key>
+		<key>20C41BF1-8066-4DCE-9867-7FA00EA2FB2C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -267,7 +239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>24EE55CB-7BF1-443D-9AC1-6418ED445E3D.xcactivitylog</string>
+			<string>20C41BF1-8066-4DCE-9867-7FA00EA2FB2C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -276,17 +248,17 @@
 				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>24EE55CB-7BF1-443D-9AC1-6418ED445E3D</string>
+			<string>20C41BF1-8066-4DCE-9867-7FA00EA2FB2C</string>
 		</dict>
-		<key>26197BCC-0581-4A4F-A0DD-6457195E16B7</key>
+		<key>2151B377-B6AE-4F29-B5E8-B6FA36CA1F71</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -295,26 +267,26 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>26197BCC-0581-4A4F-A0DD-6457195E16B7.xcactivitylog</string>
+			<string>2151B377-B6AE-4F29-B5E8-B6FA36CA1F71.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
+			<real>704197126.93736696</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>26197BCC-0581-4A4F-A0DD-6457195E16B7</string>
+			<string>2151B377-B6AE-4F29-B5E8-B6FA36CA1F71</string>
 		</dict>
-		<key>2D7DDFC9-F512-496F-9C77-DE94B41A9A82</key>
+		<key>216773AB-07C0-4899-BEB6-4FD9A10DE831</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -323,63 +295,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2D7DDFC9-F512-496F-9C77-DE94B41A9A82.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>2D7DDFC9-F512-496F-9C77-DE94B41A9A82</string>
-		</dict>
-		<key>2FEAC09E-23ED-438C-978E-0E146C25B1CE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2FEAC09E-23ED-438C-978E-0E146C25B1CE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>2FEAC09E-23ED-438C-978E-0E146C25B1CE</string>
-		</dict>
-		<key>305AF0C1-1BAD-49F2-B05F-C0406113849C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>305AF0C1-1BAD-49F2-B05F-C0406113849C.xcactivitylog</string>
+			<string>216773AB-07C0-4899-BEB6-4FD9A10DE831.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -390,15 +306,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>305AF0C1-1BAD-49F2-B05F-C0406113849C</string>
+			<string>216773AB-07C0-4899-BEB6-4FD9A10DE831</string>
 		</dict>
-		<key>32B286BF-9CBE-43EF-80BA-3E65601194DE</key>
+		<key>26B43F32-75C7-49F0-BED8-75B7894D5F84</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -407,35 +323,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>32B286BF-9CBE-43EF-80BA-3E65601194DE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>32B286BF-9CBE-43EF-80BA-3E65601194DE</string>
-		</dict>
-		<key>3D119513-FF59-4762-85CF-94E29E93C075</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3D119513-FF59-4762-85CF-94E29E93C075.xcactivitylog</string>
+			<string>26B43F32-75C7-49F0-BED8-75B7894D5F84.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -446,15 +334,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
+			<real>704197110.99540102</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>3D119513-FF59-4762-85CF-94E29E93C075</string>
+			<string>26B43F32-75C7-49F0-BED8-75B7894D5F84</string>
 		</dict>
-		<key>4A11436D-F7DF-4145-859F-C0056E262699</key>
+		<key>275FE1F3-ECC3-4777-BD43-D3C775873022</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -463,7 +351,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4A11436D-F7DF-4145-859F-C0056E262699.xcactivitylog</string>
+			<string>275FE1F3-ECC3-4777-BD43-D3C775873022.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +362,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>4A11436D-F7DF-4145-859F-C0056E262699</string>
+			<string>275FE1F3-ECC3-4777-BD43-D3C775873022</string>
 		</dict>
-		<key>4C87E053-1FF8-493B-9691-AA906AD5E843</key>
+		<key>3584AC86-F08F-4172-B3B9-7FB8DA0457DD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -491,7 +379,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4C87E053-1FF8-493B-9691-AA906AD5E843.xcactivitylog</string>
+			<string>3584AC86-F08F-4172-B3B9-7FB8DA0457DD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -502,15 +390,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>4C87E053-1FF8-493B-9691-AA906AD5E843</string>
+			<string>3584AC86-F08F-4172-B3B9-7FB8DA0457DD</string>
 		</dict>
-		<key>4D2BD85D-32AD-4F97-8087-8C6F35395F14</key>
+		<key>37A88D9A-82F2-4FA9-9B4F-E3CD678FA14D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -519,7 +407,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4D2BD85D-32AD-4F97-8087-8C6F35395F14.xcactivitylog</string>
+			<string>37A88D9A-82F2-4FA9-9B4F-E3CD678FA14D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -528,17 +416,17 @@
 				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
+			<real>704197007.81292105</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>4D2BD85D-32AD-4F97-8087-8C6F35395F14</string>
+			<string>37A88D9A-82F2-4FA9-9B4F-E3CD678FA14D</string>
 		</dict>
-		<key>544E1A35-A19D-4857-B5A4-6AFD809BE391</key>
+		<key>3A491341-D372-4892-8C1B-63E38FEAC3BF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -547,7 +435,63 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>544E1A35-A19D-4857-B5A4-6AFD809BE391.xcactivitylog</string>
+			<string>3A491341-D372-4892-8C1B-63E38FEAC3BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197173.69744205</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>3A491341-D372-4892-8C1B-63E38FEAC3BF</string>
+		</dict>
+		<key>4C0BB956-6A7F-4B44-8DEF-31EBDD7A83FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C0BB956-6A7F-4B44-8DEF-31EBDD7A83FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197173.69744205</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>4C0BB956-6A7F-4B44-8DEF-31EBDD7A83FD</string>
+		</dict>
+		<key>4F62130B-3120-413B-8ED4-69FCF0B0145F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F62130B-3120-413B-8ED4-69FCF0B0145F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -558,43 +502,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>544E1A35-A19D-4857-B5A4-6AFD809BE391</string>
-		</dict>
-		<key>591BE89A-0519-4084-B1ED-C533D70B78B1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>591BE89A-0519-4084-B1ED-C533D70B78B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
+			<real>704197110.99540102</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>591BE89A-0519-4084-B1ED-C533D70B78B1</string>
+			<string>4F62130B-3120-413B-8ED4-69FCF0B0145F</string>
 		</dict>
-		<key>59FDDE5B-4DE0-45D6-AD07-36555ACA06BE</key>
+		<key>5449EF6B-A439-439E-BAD3-B704FAD0E44C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -603,35 +519,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>59FDDE5B-4DE0-45D6-AD07-36555ACA06BE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>59FDDE5B-4DE0-45D6-AD07-36555ACA06BE</string>
-		</dict>
-		<key>5A300A83-2E11-42AD-B40F-D5933143F90A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5A300A83-2E11-42AD-B40F-D5933143F90A.xcactivitylog</string>
+			<string>5449EF6B-A439-439E-BAD3-B704FAD0E44C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -642,15 +530,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>5A300A83-2E11-42AD-B40F-D5933143F90A</string>
+			<string>5449EF6B-A439-439E-BAD3-B704FAD0E44C</string>
 		</dict>
-		<key>5B09FDCE-A16E-48D6-B493-1CE8F8033362</key>
+		<key>59457E8C-6F1D-4AD4-9072-42C48E29C7C2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -659,63 +547,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5B09FDCE-A16E-48D6-B493-1CE8F8033362.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>5B09FDCE-A16E-48D6-B493-1CE8F8033362</string>
-		</dict>
-		<key>5EF0880A-D85B-472D-9865-0D20ED3949CA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5EF0880A-D85B-472D-9865-0D20ED3949CA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>5EF0880A-D85B-472D-9865-0D20ED3949CA</string>
-		</dict>
-		<key>5F4D99F8-7B8A-48F6-AAFC-0F2B34819049</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5F4D99F8-7B8A-48F6-AAFC-0F2B34819049.xcactivitylog</string>
+			<string>59457E8C-6F1D-4AD4-9072-42C48E29C7C2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -724,17 +556,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
+			<real>704197126.93736696</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>5F4D99F8-7B8A-48F6-AAFC-0F2B34819049</string>
+			<string>59457E8C-6F1D-4AD4-9072-42C48E29C7C2</string>
 		</dict>
-		<key>61322C98-0EF8-42BA-AAD7-02439201AE79</key>
+		<key>5C3D0C5B-3806-4C5C-8747-C9784CA244A4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -743,7 +575,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>61322C98-0EF8-42BA-AAD7-02439201AE79.xcactivitylog</string>
+			<string>5C3D0C5B-3806-4C5C-8747-C9784CA244A4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -754,15 +586,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
+			<real>704197126.93736696</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>61322C98-0EF8-42BA-AAD7-02439201AE79</string>
+			<string>5C3D0C5B-3806-4C5C-8747-C9784CA244A4</string>
 		</dict>
-		<key>650446B5-7809-4754-BE65-E87FB0C79ADE</key>
+		<key>5E88C89A-4DD2-42C4-ABEE-8A417AC406B3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -771,35 +603,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>650446B5-7809-4754-BE65-E87FB0C79ADE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>650446B5-7809-4754-BE65-E87FB0C79ADE</string>
-		</dict>
-		<key>670E9943-2F12-4C60-A68E-082446CD21F1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>670E9943-2F12-4C60-A68E-082446CD21F1.xcactivitylog</string>
+			<string>5E88C89A-4DD2-42C4-ABEE-8A417AC406B3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -810,15 +614,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704197173.69744205</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>670E9943-2F12-4C60-A68E-082446CD21F1</string>
+			<string>5E88C89A-4DD2-42C4-ABEE-8A417AC406B3</string>
 		</dict>
-		<key>6817C459-B0F1-484B-80BA-F402DB402B94</key>
+		<key>609AF4EF-2027-46DC-AB02-8A71E7272404</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -827,7 +631,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6817C459-B0F1-484B-80BA-F402DB402B94.xcactivitylog</string>
+			<string>609AF4EF-2027-46DC-AB02-8A71E7272404.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -838,15 +642,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
+			<real>704197126.93736696</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>6817C459-B0F1-484B-80BA-F402DB402B94</string>
+			<string>609AF4EF-2027-46DC-AB02-8A71E7272404</string>
 		</dict>
-		<key>69323546-CADD-41AA-9F99-0AD3A7556E2B</key>
+		<key>6D059BDB-20BC-4282-BCC3-0B22DF6ADE07</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -855,119 +659,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>69323546-CADD-41AA-9F99-0AD3A7556E2B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>69323546-CADD-41AA-9F99-0AD3A7556E2B</string>
-		</dict>
-		<key>6FDCB7F4-66FA-46D2-998F-2B7C15D98154</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6FDCB7F4-66FA-46D2-998F-2B7C15D98154.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>6FDCB7F4-66FA-46D2-998F-2B7C15D98154</string>
-		</dict>
-		<key>74319B8A-7DDF-4189-ACA3-2B38989636C8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>74319B8A-7DDF-4189-ACA3-2B38989636C8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>74319B8A-7DDF-4189-ACA3-2B38989636C8</string>
-		</dict>
-		<key>771EBD3D-A60A-4285-8D98-99BF52029294</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>771EBD3D-A60A-4285-8D98-99BF52029294.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>771EBD3D-A60A-4285-8D98-99BF52029294</string>
-		</dict>
-		<key>77C7E79D-2566-45D6-916E-1825A20EF838</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>77C7E79D-2566-45D6-916E-1825A20EF838.xcactivitylog</string>
+			<string>6D059BDB-20BC-4282-BCC3-0B22DF6ADE07.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -978,15 +670,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704197110.99540102</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>77C7E79D-2566-45D6-916E-1825A20EF838</string>
+			<string>6D059BDB-20BC-4282-BCC3-0B22DF6ADE07</string>
 		</dict>
-		<key>7B18E5CC-864A-4D0A-8D65-DB6682A3B2B1</key>
+		<key>73811CD1-6CEF-4FE4-BC25-4E6F84BCDF58</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -995,35 +687,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7B18E5CC-864A-4D0A-8D65-DB6682A3B2B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>7B18E5CC-864A-4D0A-8D65-DB6682A3B2B1</string>
-		</dict>
-		<key>7B985BDE-9E79-4DE0-A081-4FD382B968DF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7B985BDE-9E79-4DE0-A081-4FD382B968DF.xcactivitylog</string>
+			<string>73811CD1-6CEF-4FE4-BC25-4E6F84BCDF58.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1034,15 +698,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
+			<real>704197080.13552797</real>
 			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
+			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>7B985BDE-9E79-4DE0-A081-4FD382B968DF</string>
+			<string>73811CD1-6CEF-4FE4-BC25-4E6F84BCDF58</string>
 		</dict>
-		<key>7E7FBE08-FD88-4995-93A2-7C6689014FEC</key>
+		<key>74624B8E-A34A-44F7-9C90-0F5904E63867</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1051,7 +715,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7E7FBE08-FD88-4995-93A2-7C6689014FEC.xcactivitylog</string>
+			<string>74624B8E-A34A-44F7-9C90-0F5904E63867.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1062,15 +726,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>704196389.71750104</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>7E7FBE08-FD88-4995-93A2-7C6689014FEC</string>
+			<string>74624B8E-A34A-44F7-9C90-0F5904E63867</string>
 		</dict>
-		<key>7ED7CD44-3C6B-4A01-AF4D-746B77B6A157</key>
+		<key>75C499BA-2684-4C1E-BFA8-488DD9E66B67</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1079,119 +743,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7ED7CD44-3C6B-4A01-AF4D-746B77B6A157.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>7ED7CD44-3C6B-4A01-AF4D-746B77B6A157</string>
-		</dict>
-		<key>824418C0-08D9-4181-889E-8A047E2E9158</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>824418C0-08D9-4181-889E-8A047E2E9158.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>824418C0-08D9-4181-889E-8A047E2E9158</string>
-		</dict>
-		<key>867C544C-857E-4E64-8B15-644421630750</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>867C544C-857E-4E64-8B15-644421630750.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>867C544C-857E-4E64-8B15-644421630750</string>
-		</dict>
-		<key>88C28917-1BE7-4DEC-8145-113BB0DDA997</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>88C28917-1BE7-4DEC-8145-113BB0DDA997.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>88C28917-1BE7-4DEC-8145-113BB0DDA997</string>
-		</dict>
-		<key>914B56F7-918C-4FC7-9E3E-BE547D8D5438</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>914B56F7-918C-4FC7-9E3E-BE547D8D5438.xcactivitylog</string>
+			<string>75C499BA-2684-4C1E-BFA8-488DD9E66B67.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1202,15 +754,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
+			<real>704197110.99540102</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>914B56F7-918C-4FC7-9E3E-BE547D8D5438</string>
+			<string>75C499BA-2684-4C1E-BFA8-488DD9E66B67</string>
 		</dict>
-		<key>92C5BD81-83FD-4470-B725-5F4CF89327E6</key>
+		<key>7EAEE80E-D285-4960-9A87-977C4E34A937</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1219,119 +771,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>92C5BD81-83FD-4470-B725-5F4CF89327E6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>92C5BD81-83FD-4470-B725-5F4CF89327E6</string>
-		</dict>
-		<key>95A23D69-6451-44AC-BCBD-4380B7040CFD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>95A23D69-6451-44AC-BCBD-4380B7040CFD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>95A23D69-6451-44AC-BCBD-4380B7040CFD</string>
-		</dict>
-		<key>961507F6-A4A0-4E77-8039-5A1026F1CE98</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>961507F6-A4A0-4E77-8039-5A1026F1CE98.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>961507F6-A4A0-4E77-8039-5A1026F1CE98</string>
-		</dict>
-		<key>98B8AFEE-2A77-4F50-B5CB-51B96611DB78</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>98B8AFEE-2A77-4F50-B5CB-51B96611DB78.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>98B8AFEE-2A77-4F50-B5CB-51B96611DB78</string>
-		</dict>
-		<key>9B7FC4B7-E7CF-4271-89C0-D98613F13EF2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9B7FC4B7-E7CF-4271-89C0-D98613F13EF2.xcactivitylog</string>
+			<string>7EAEE80E-D285-4960-9A87-977C4E34A937.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1342,15 +782,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
+			<real>704197080.13552797</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>9B7FC4B7-E7CF-4271-89C0-D98613F13EF2</string>
+			<string>7EAEE80E-D285-4960-9A87-977C4E34A937</string>
 		</dict>
-		<key>9D43E7EC-4F4C-453D-A172-11A9BF988422</key>
+		<key>7FA6240F-5EC5-4CF0-B202-F69AB2150C34</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1359,119 +799,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9D43E7EC-4F4C-453D-A172-11A9BF988422.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>9D43E7EC-4F4C-453D-A172-11A9BF988422</string>
-		</dict>
-		<key>A08245EE-253E-426A-A84E-EE3C066E3AB5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A08245EE-253E-426A-A84E-EE3C066E3AB5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>A08245EE-253E-426A-A84E-EE3C066E3AB5</string>
-		</dict>
-		<key>A0DAD495-8CF8-4332-82E2-BAEBB4C88A57</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A0DAD495-8CF8-4332-82E2-BAEBB4C88A57.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>A0DAD495-8CF8-4332-82E2-BAEBB4C88A57</string>
-		</dict>
-		<key>A5D94BD9-0B5E-48A1-9105-819F6BDA0E80</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5D94BD9-0B5E-48A1-9105-819F6BDA0E80.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>A5D94BD9-0B5E-48A1-9105-819F6BDA0E80</string>
-		</dict>
-		<key>AA8758DD-3770-46CF-8284-998CCC7BEAD5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AA8758DD-3770-46CF-8284-998CCC7BEAD5.xcactivitylog</string>
+			<string>7FA6240F-5EC5-4CF0-B202-F69AB2150C34.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1482,15 +810,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
+			<real>704197007.81292105</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>AA8758DD-3770-46CF-8284-998CCC7BEAD5</string>
+			<string>7FA6240F-5EC5-4CF0-B202-F69AB2150C34</string>
 		</dict>
-		<key>AEA52051-3559-40A5-AD36-DB775EBCD6DC</key>
+		<key>80C48C48-9113-4F4F-81EC-21952FC6900E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1499,7 +827,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AEA52051-3559-40A5-AD36-DB775EBCD6DC.xcactivitylog</string>
+			<string>80C48C48-9113-4F4F-81EC-21952FC6900E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1510,15 +838,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
+			<real>704197190.36986804</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>AEA52051-3559-40A5-AD36-DB775EBCD6DC</string>
+			<string>80C48C48-9113-4F4F-81EC-21952FC6900E</string>
 		</dict>
-		<key>B05B24C6-3F4B-49B0-B543-D82B3C00C420</key>
+		<key>86DD5E69-63B3-435F-955E-D3C2EA699438</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1527,63 +855,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B05B24C6-3F4B-49B0-B543-D82B3C00C420.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>B05B24C6-3F4B-49B0-B543-D82B3C00C420</string>
-		</dict>
-		<key>B2C93D9F-28E5-4A08-96F7-00F9224B721B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B2C93D9F-28E5-4A08-96F7-00F9224B721B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>B2C93D9F-28E5-4A08-96F7-00F9224B721B</string>
-		</dict>
-		<key>B32A4498-6024-4B07-91E9-0136E51B73C8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B32A4498-6024-4B07-91E9-0136E51B73C8.xcactivitylog</string>
+			<string>86DD5E69-63B3-435F-955E-D3C2EA699438.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1594,15 +866,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704197190.36986804</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>B32A4498-6024-4B07-91E9-0136E51B73C8</string>
+			<string>86DD5E69-63B3-435F-955E-D3C2EA699438</string>
 		</dict>
-		<key>B46C67FD-003F-4182-A26A-A3D6F8D2863A</key>
+		<key>90F11C7F-48D5-4C23-A64B-7E86101F7616</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1611,7 +883,119 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B46C67FD-003F-4182-A26A-A3D6F8D2863A.xcactivitylog</string>
+			<string>90F11C7F-48D5-4C23-A64B-7E86101F7616.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>90F11C7F-48D5-4C23-A64B-7E86101F7616</string>
+		</dict>
+		<key>98AAF7DC-6759-416D-9578-BA7961B636C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98AAF7DC-6759-416D-9578-BA7961B636C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197190.36986804</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>98AAF7DC-6759-416D-9578-BA7961B636C0</string>
+		</dict>
+		<key>9983DF49-2AF3-461B-9BA8-FF1BF6CE72A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9983DF49-2AF3-461B-9BA8-FF1BF6CE72A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197110.99540102</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>9983DF49-2AF3-461B-9BA8-FF1BF6CE72A0</string>
+		</dict>
+		<key>9DC8907F-972F-4533-ACFD-65750AA56409</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9DC8907F-972F-4533-ACFD-65750AA56409.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197110.99540102</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>9DC8907F-972F-4533-ACFD-65750AA56409</string>
+		</dict>
+		<key>9E408D34-DE2E-41A4-917B-4CDB3D697050</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E408D34-DE2E-41A4-917B-4CDB3D697050.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1622,15 +1006,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>704196389.71750104</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>B46C67FD-003F-4182-A26A-A3D6F8D2863A</string>
+			<string>9E408D34-DE2E-41A4-917B-4CDB3D697050</string>
 		</dict>
-		<key>B470E016-3976-4212-A455-72E8F762BB91</key>
+		<key>9F0392AA-08DA-4D28-9166-8AE242CB5709</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1639,175 +1023,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B470E016-3976-4212-A455-72E8F762BB91.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>B470E016-3976-4212-A455-72E8F762BB91</string>
-		</dict>
-		<key>BB952DE7-D666-4965-8529-593B5C71E5A3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BB952DE7-D666-4965-8529-593B5C71E5A3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>BB952DE7-D666-4965-8529-593B5C71E5A3</string>
-		</dict>
-		<key>BCE49741-DCD3-4ADC-BBD0-F7B24B7F9CDC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BCE49741-DCD3-4ADC-BBD0-F7B24B7F9CDC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704185785.98092794</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>BCE49741-DCD3-4ADC-BBD0-F7B24B7F9CDC</string>
-		</dict>
-		<key>BD99760C-26C8-4F86-A438-360B485A6AD0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BD99760C-26C8-4F86-A438-360B485A6AD0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>BD99760C-26C8-4F86-A438-360B485A6AD0</string>
-		</dict>
-		<key>BDB83ED1-7625-46EC-8E06-D9006C010D5D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BDB83ED1-7625-46EC-8E06-D9006C010D5D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>BDB83ED1-7625-46EC-8E06-D9006C010D5D</string>
-		</dict>
-		<key>BF014AE3-86DD-428F-B0D5-4134D7C7D5CB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BF014AE3-86DD-428F-B0D5-4134D7C7D5CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>BF014AE3-86DD-428F-B0D5-4134D7C7D5CB</string>
-		</dict>
-		<key>BF5575B3-9713-4687-851E-984ED44166B4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BF5575B3-9713-4687-851E-984ED44166B4.xcactivitylog</string>
+			<string>9F0392AA-08DA-4D28-9166-8AE242CB5709.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1818,15 +1034,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704197080.13552797</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>BF5575B3-9713-4687-851E-984ED44166B4</string>
+			<string>9F0392AA-08DA-4D28-9166-8AE242CB5709</string>
 		</dict>
-		<key>C28CA12F-CD6B-49A2-A8C5-46301F4F79DA</key>
+		<key>9FE63E37-35F6-4474-8F50-2943F3CD7726</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1835,7 +1051,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C28CA12F-CD6B-49A2-A8C5-46301F4F79DA.xcactivitylog</string>
+			<string>9FE63E37-35F6-4474-8F50-2943F3CD7726.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1846,15 +1062,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
 			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
+			<real>704197080.13552797</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>C28CA12F-CD6B-49A2-A8C5-46301F4F79DA</string>
+			<string>9FE63E37-35F6-4474-8F50-2943F3CD7726</string>
 		</dict>
-		<key>C5E476B7-04EA-4EC3-9108-7C456132A8E7</key>
+		<key>A4FE89D1-1146-42B8-B6AA-63AF6B6191EF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1863,7 +1079,119 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C5E476B7-04EA-4EC3-9108-7C456132A8E7.xcactivitylog</string>
+			<string>A4FE89D1-1146-42B8-B6AA-63AF6B6191EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197126.93736696</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>A4FE89D1-1146-42B8-B6AA-63AF6B6191EF</string>
+		</dict>
+		<key>A7AE48BA-0462-4F61-9D25-1577AF52953D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7AE48BA-0462-4F61-9D25-1577AF52953D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197051.18966103</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>A7AE48BA-0462-4F61-9D25-1577AF52953D</string>
+		</dict>
+		<key>A85CA34A-A746-4686-B623-84B8C3A127A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A85CA34A-A746-4686-B623-84B8C3A127A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197126.93736696</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>A85CA34A-A746-4686-B623-84B8C3A127A1</string>
+		</dict>
+		<key>A882414C-D8FE-4CD0-9293-D39E9F4C59BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A882414C-D8FE-4CD0-9293-D39E9F4C59BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197080.13552797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>A882414C-D8FE-4CD0-9293-D39E9F4C59BA</string>
+		</dict>
+		<key>AF29C7B6-84F5-4471-98BC-6143161E4DC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF29C7B6-84F5-4471-98BC-6143161E4DC4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1874,15 +1202,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>704196389.71750104</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>C5E476B7-04EA-4EC3-9108-7C456132A8E7</string>
+			<string>AF29C7B6-84F5-4471-98BC-6143161E4DC4</string>
 		</dict>
-		<key>C707ED02-3179-4325-8F1E-71CAF5D02859</key>
+		<key>AF86DFB9-FCC3-47A3-9598-D104190FC1F9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1891,7 +1219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C707ED02-3179-4325-8F1E-71CAF5D02859.xcactivitylog</string>
+			<string>AF86DFB9-FCC3-47A3-9598-D104190FC1F9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1902,15 +1230,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
 			<key>timeStartedRecording</key>
-			<real>704190371.62452197</real>
+			<real>704197190.36986804</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>C707ED02-3179-4325-8F1E-71CAF5D02859</string>
+			<string>AF86DFB9-FCC3-47A3-9598-D104190FC1F9</string>
 		</dict>
-		<key>C8A187B4-58D4-472F-A2A5-517818873B46</key>
+		<key>AFD42F60-AC21-41CE-ACC7-2AB35D438006</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1919,7 +1247,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C8A187B4-58D4-472F-A2A5-517818873B46.xcactivitylog</string>
+			<string>AFD42F60-AC21-41CE-ACC7-2AB35D438006.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1930,15 +1258,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704197080.13552797</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>C8A187B4-58D4-472F-A2A5-517818873B46</string>
+			<string>AFD42F60-AC21-41CE-ACC7-2AB35D438006</string>
 		</dict>
-		<key>CFE4C477-26A5-40D4-928D-945005DA9DD8</key>
+		<key>B9E1C508-0A78-4ED8-87FB-40286097A282</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1947,7 +1275,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CFE4C477-26A5-40D4-928D-945005DA9DD8.xcactivitylog</string>
+			<string>B9E1C508-0A78-4ED8-87FB-40286097A282.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1958,15 +1286,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
+			<real>704197190.36986804</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>CFE4C477-26A5-40D4-928D-945005DA9DD8</string>
+			<string>B9E1C508-0A78-4ED8-87FB-40286097A282</string>
 		</dict>
-		<key>D8783C73-5EB4-4321-8676-B112BAE2388A</key>
+		<key>BB5D8F46-CABF-42D8-9FC3-E0DD65E17B28</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1975,7 +1303,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D8783C73-5EB4-4321-8676-B112BAE2388A.xcactivitylog</string>
+			<string>BB5D8F46-CABF-42D8-9FC3-E0DD65E17B28.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1984,17 +1312,17 @@
 				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704185257.11142898</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>704196389.71750104</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>D8783C73-5EB4-4321-8676-B112BAE2388A</string>
+			<string>BB5D8F46-CABF-42D8-9FC3-E0DD65E17B28</string>
 		</dict>
-		<key>DD0AE84F-E41D-4FBF-9079-559DD8305A51</key>
+		<key>BC9D533D-0D6D-4025-831E-EF4DC90FEA25</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2003,91 +1331,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DD0AE84F-E41D-4FBF-9079-559DD8305A51.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704190316.42726505</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>DD0AE84F-E41D-4FBF-9079-559DD8305A51</string>
-		</dict>
-		<key>DDF00F01-DAD8-4899-86FF-E00CB4F4E4FA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DDF00F01-DAD8-4899-86FF-E00CB4F4E4FA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704186707.05233705</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>DDF00F01-DAD8-4899-86FF-E00CB4F4E4FA</string>
-		</dict>
-		<key>EA364387-D04C-49CD-A91A-8366447A2D7E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EA364387-D04C-49CD-A91A-8366447A2D7E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>EA364387-D04C-49CD-A91A-8366447A2D7E</string>
-		</dict>
-		<key>EA7365DE-D6AB-463C-9022-E648FC0A63C5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EA7365DE-D6AB-463C-9022-E648FC0A63C5.xcactivitylog</string>
+			<string>BC9D533D-0D6D-4025-831E-EF4DC90FEA25.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2098,15 +1342,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
+			<real>704196345.83752799</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>704196389.71750104</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>EA7365DE-D6AB-463C-9022-E648FC0A63C5</string>
+			<string>BC9D533D-0D6D-4025-831E-EF4DC90FEA25</string>
 		</dict>
-		<key>EB6BCC8F-D3A0-4D5B-83F8-F504D610331A</key>
+		<key>C4500E2D-CAC4-4987-B6A7-DF1AF0443B57</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2115,35 +1359,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EB6BCC8F-D3A0-4D5B-83F8-F504D610331A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704186656.77474999</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>EB6BCC8F-D3A0-4D5B-83F8-F504D610331A</string>
-		</dict>
-		<key>F15FD482-B48F-4C98-B4FB-988DAA97AA68</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F15FD482-B48F-4C98-B4FB-988DAA97AA68.xcactivitylog</string>
+			<string>C4500E2D-CAC4-4987-B6A7-DF1AF0443B57.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2152,17 +1368,17 @@
 				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
+			<real>704197051.18966103</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>F15FD482-B48F-4C98-B4FB-988DAA97AA68</string>
+			<string>C4500E2D-CAC4-4987-B6A7-DF1AF0443B57</string>
 		</dict>
-		<key>F2FA3973-72B0-41DD-8E84-A65E93013538</key>
+		<key>C4C8609B-CE1E-42E0-873D-D4CC5C383CD5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2171,91 +1387,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F2FA3973-72B0-41DD-8E84-A65E93013538.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>704186676.39416695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>F2FA3973-72B0-41DD-8E84-A65E93013538</string>
-		</dict>
-		<key>F5CFA4B6-D8D7-4D78-A79F-F238D1AC445F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F5CFA4B6-D8D7-4D78-A79F-F238D1AC445F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704184223.493119</real>
-			<key>timeStoppedRecording</key>
-			<real>704184257.12765706</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>F5CFA4B6-D8D7-4D78-A79F-F238D1AC445F</string>
-		</dict>
-		<key>FCA68172-60B7-4D9A-A63A-4A03540319C5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FCA68172-60B7-4D9A-A63A-4A03540319C5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>704190262.90429604</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Fortunesoft_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>FCA68172-60B7-4D9A-A63A-4A03540319C5</string>
-		</dict>
-		<key>FCC27EDD-3247-4B01-BAF8-91B9C3372ED7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FCC27EDD-3247-4B01-BAF8-91B9C3372ED7.xcactivitylog</string>
+			<string>C4C8609B-CE1E-42E0-873D-D4CC5C383CD5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2266,13 +1398,433 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
 			<key>timeStartedRecording</key>
-			<real>704190406.80606902</real>
+			<real>704197173.69744205</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build Fortunesoft_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>FCC27EDD-3247-4B01-BAF8-91B9C3372ED7</string>
+			<string>C4C8609B-CE1E-42E0-873D-D4CC5C383CD5</string>
+		</dict>
+		<key>C7A5C694-6502-4F0F-9E10-C7BA07D97CC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7A5C694-6502-4F0F-9E10-C7BA07D97CC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>C7A5C694-6502-4F0F-9E10-C7BA07D97CC0</string>
+		</dict>
+		<key>C8EA5CA0-884F-49BC-BE82-1D617DA0CEDA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8EA5CA0-884F-49BC-BE82-1D617DA0CEDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197190.36986804</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>C8EA5CA0-884F-49BC-BE82-1D617DA0CEDA</string>
+		</dict>
+		<key>CC71A861-8285-4FB5-9D58-C2623DB86C2D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC71A861-8285-4FB5-9D58-C2623DB86C2D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>CC71A861-8285-4FB5-9D58-C2623DB86C2D</string>
+		</dict>
+		<key>CE0885F7-BE7F-40B0-A888-9E119A02C8BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE0885F7-BE7F-40B0-A888-9E119A02C8BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFQUFBMUFEM0E4QTFCNTlBQjkxMzE5RUU0MDc1MkM2RCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197080.13552797</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>CE0885F7-BE7F-40B0-A888-9E119A02C8BE</string>
+		</dict>
+		<key>CF06F6F1-7BC1-4F65-86EA-60668DA95790</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF06F6F1-7BC1-4F65-86EA-60668DA95790.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI3QzU3OUNFNjZBMUU3QTlBQTMzQ0E1Rjk3RjlDMjJDNSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197110.99540102</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>CF06F6F1-7BC1-4F65-86EA-60668DA95790</string>
+		</dict>
+		<key>D2B2A003-0561-443E-AE12-CBF81725FDDD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2B2A003-0561-443E-AE12-CBF81725FDDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>D2B2A003-0561-443E-AE12-CBF81725FDDD</string>
+		</dict>
+		<key>D391803A-7FEB-42F3-A6BB-25725EADFF35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D391803A-7FEB-42F3-A6BB-25725EADFF35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704196345.83752799</real>
+			<key>timeStoppedRecording</key>
+			<real>704196389.71750104</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>D391803A-7FEB-42F3-A6BB-25725EADFF35</string>
+		</dict>
+		<key>DAD49FF0-76A7-4FAB-8A9B-970A0356CA34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DAD49FF0-76A7-4FAB-8A9B-970A0356CA34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197007.81292105</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>DAD49FF0-76A7-4FAB-8A9B-970A0356CA34</string>
+		</dict>
+		<key>DBF79888-139B-4AED-9666-FE62A468EFE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBF79888-139B-4AED-9666-FE62A468EFE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwQzZFMDFERjNFOEQ3QjA2NDMwODA1OENEOTdCMDlDNSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704196345.83752799</real>
+			<key>timeStoppedRecording</key>
+			<real>704196389.71750104</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>DBF79888-139B-4AED-9666-FE62A468EFE3</string>
+		</dict>
+		<key>E8E5205B-DB80-4FD9-B913-5EACC00BC588</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8E5205B-DB80-4FD9-B913-5EACC00BC588.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197173.69744205</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>E8E5205B-DB80-4FD9-B913-5EACC00BC588</string>
+		</dict>
+		<key>EC5B32C3-B7B5-488D-8A6C-33C7C60DA879</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC5B32C3-B7B5-488D-8A6C-33C7C60DA879.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJEMTE4QTZBMDQ4MjhGRDNDREE4NjQwQ0QyQjY3OTZEMiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197190.36986804</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>EC5B32C3-B7B5-488D-8A6C-33C7C60DA879</string>
+		</dict>
+		<key>EF9B808D-1A9E-4AC0-94F2-E21807A263E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF9B808D-1A9E-4AC0-94F2-E21807A263E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704196345.83752799</real>
+			<key>timeStoppedRecording</key>
+			<real>704196389.71750104</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>EF9B808D-1A9E-4AC0-94F2-E21807A263E1</string>
+		</dict>
+		<key>F024D1AF-0C02-4FBF-916C-920AE890A3AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F024D1AF-0C02-4FBF-916C-920AE890A3AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197173.69744205</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>F024D1AF-0C02-4FBF-916C-920AE890A3AE</string>
+		</dict>
+		<key>FAA085F5-0BEC-4AF6-B458-E6D7C4BFAEF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FAA085F5-0BEC-4AF6-B458-E6D7C4BFAEF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL0ZvcnR1bmVzb2Z0X1Rlc3QueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiIwNDk2MEVFNjI5RjgzNEUzMDA4Njk5QjcifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704197051.18966103</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>FAA085F5-0BEC-4AF6-B458-E6D7C4BFAEF8</string>
+		</dict>
+		<key>FEFBB1F8-4037-47FD-9C86-31C6FD8D1E49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEFBB1F8-4037-47FD-9C86-31C6FD8D1E49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvbWFjXC9EZXNrdG9wXC91bnRpdGxlZCBmb2xkZXJcL0ZvcnR1bmVzb2Z0X1Rlc3RcL1BvZHNcL1BvZHMueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJFODAyMkQyMkZBQTY2OTBCNUUxQzM3OUMxQkNFMTQ5MSJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704197110.99540102</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build Fortunesoft_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>FEFBB1F8-4037-47FD-9C86-31C6FD8D1E49</string>
 		</dict>
 	</dict>
 </dict>

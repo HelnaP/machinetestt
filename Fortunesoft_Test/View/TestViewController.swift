@@ -52,8 +52,8 @@ extension TestViewController:UICollectionViewDelegate,UICollectionViewDataSource
         cell.title.text = NewData[indexPath.row].title
         let url = URL(string: NewData[indexPath.row].image)!
         cell.image.kf.setImage(with: url)
-        cell.image.layer.cornerRadius = 10
-        cell.image.clipsToBounds = true
+        cell.image.layer.cornerRadius = 5.0
+        cell.image.layer.masksToBounds = true
         return cell
     }
  }
@@ -66,7 +66,6 @@ class CollectionViewCell:UICollectionViewCell{
     override func awakeFromNib() {
         super.awakeFromNib()
         
-        image.layer.cornerRadius = 10
-        image.clipsToBounds = true
+        
     }
 }

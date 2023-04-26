@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "5a84ee347e2d044a75b39295294f2115bf0eff70273b75ab3dc811665dbf1f3b"
-build_start_time: [1682491551, 775796890]
-build_end_time: [1682491558, 897417068]
+build_start_time: [1682504195, 662488937]
+build_end_time: [1682504200, 528658866]
 inputs:
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/PromiseKit/Sources/AnyPromise.swift": [1682439666, 588779926]
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/PromiseKit/Sources/Async.swift": [1682439666, 588019847]

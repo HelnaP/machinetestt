@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "50b11fb908441432e180c09b729285deec294b57adb10be46756e40fa89d219e"
-build_start_time: [1682491551, 776085853]
-build_end_time: [1682491559, 979038953]
+build_start_time: [1682504195, 663589000]
+build_end_time: [1682504201, 539527893]
 inputs:
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/AFError.swift": [1682439666, 494049549]
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Alamofire/Source/Alamofire.swift": [1682439666, 502816915]

@@ -1,0 +1,35 @@
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSTextAttachment+Kingfisher.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/General/KingfisherOptionsInfo.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.swiftdeps"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.o"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherOptionsInfo.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Image/Placeholder.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/Placeholder.dia"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Networking/RedirectHandler.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/RedirectHandler.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift":
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.o"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/NSButton+Kingfisher.d"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/General/KingfisherManager.swift":
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.d"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.swiftdeps"
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.dia"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/KingfisherManager.o"
+"/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Cache/MemoryStorage.swift":
+  diagnostics: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.dia"
+  dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.d"
+  object: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.o"
+  swift-dependencies: "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/DerivedData/Fortunesoft_Test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/x86_64/MemoryStorage.swiftdeps"

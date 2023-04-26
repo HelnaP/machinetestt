@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "a379efb6938eb3f52b44c40e01132dbf83a34a0cf2df8e495887b5c3efc7827a"
-build_start_time: [1682491424, 509023]
-build_end_time: [1682491439, 661552906]
+build_start_time: [1682503546, 385277032]
+build_end_time: [1682503567, 325927019]
 inputs:
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1682439666, 596393346]

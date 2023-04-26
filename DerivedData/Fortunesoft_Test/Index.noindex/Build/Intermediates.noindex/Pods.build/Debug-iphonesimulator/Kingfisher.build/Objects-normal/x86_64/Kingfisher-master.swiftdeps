@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "68f77779ac68fbf69a2d1deb98bd6b8047b4f6353a30697be894c38025497f0a"
-build_start_time: [1682491551, 747983932]
-build_end_time: [1682491561, 882758140]
+build_start_time: [1682504195, 671710968]
+build_end_time: [1682504206, 288964033]
 inputs:
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Cache/CacheSerializer.swift": [1682445557, 595022201]
   "/Users/mac/Desktop/untitled folder/Fortunesoft_Test/Pods/Kingfisher/Sources/Cache/DiskStorage.swift": [1682445557, 594782352]
